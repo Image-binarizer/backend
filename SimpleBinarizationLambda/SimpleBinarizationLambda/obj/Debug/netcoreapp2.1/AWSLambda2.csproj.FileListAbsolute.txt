@@ -1,8 +1,0 @@
-C:\VSProjects\AWSLambda2\AWSLambda2\bin\Debug\netcoreapp2.1\AWSLambda2.deps.json
-C:\VSProjects\AWSLambda2\AWSLambda2\bin\Debug\netcoreapp2.1\AWSLambda2.runtimeconfig.json
-C:\VSProjects\AWSLambda2\AWSLambda2\bin\Debug\netcoreapp2.1\AWSLambda2.runtimeconfig.dev.json
-C:\VSProjects\AWSLambda2\AWSLambda2\bin\Debug\netcoreapp2.1\AWSLambda2.dll
-C:\VSProjects\AWSLambda2\AWSLambda2\obj\Debug\netcoreapp2.1\AWSLambda2.csprojAssemblyReference.cache
-C:\VSProjects\AWSLambda2\AWSLambda2\obj\Debug\netcoreapp2.1\AWSLambda2.csproj.CoreCompileInputs.cache
-C:\VSProjects\AWSLambda2\AWSLambda2\obj\Debug\netcoreapp2.1\AWSLambda2.AssemblyInfoInputs.cache
-C:\VSProjects\AWSLambda2\AWSLambda2\obj\Debug\netcoreapp2.1\AWSLambda2.AssemblyInfo.cs
