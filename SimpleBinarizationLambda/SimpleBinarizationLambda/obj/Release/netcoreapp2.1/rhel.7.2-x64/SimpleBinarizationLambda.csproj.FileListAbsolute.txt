@@ -1,0 +1,11 @@
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.deps.json
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.runtimeconfig.json
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.runtimeconfig.dev.json
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.dll
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.pdb
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.csprojAssemblyReference.cache
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.csproj.CoreCompileInputs.cache
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.AssemblyInfoInputs.cache
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.AssemblyInfo.cs
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.dll
+C:\VSProjects\SimpleBinarizationLambda\SimpleBinarizationLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\SimpleBinarizationLambda.pdb

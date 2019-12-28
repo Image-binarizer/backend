@@ -1,0 +1,11 @@
+C:\VSProjects\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.csprojAssemblyReference.cache
+C:\VSProjects\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.csproj.CoreCompileInputs.cache
+C:\VSProjects\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.AssemblyInfoInputs.cache
+C:\VSProjects\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.AssemblyInfo.cs
+C:\VSProjects\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.deps.json
+C:\VSProjects\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.runtimeconfig.json
+C:\VSProjects\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.runtimeconfig.dev.json
+C:\VSProjects\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.dll
+C:\VSProjects\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.pdb
+C:\VSProjects\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.dll
+C:\VSProjects\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.pdb
