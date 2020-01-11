@@ -32,6 +32,7 @@ namespace SimpleBinarizationLambda
             {
                 BucketName = _bucketName,
                 Key = key,
+                CannedACL = S3CannedACL.PublicRead
             };
 
             using (FileStream stream = new FileStream(filePath, FileMode.Open))
