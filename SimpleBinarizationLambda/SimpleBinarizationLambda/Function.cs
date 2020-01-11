@@ -1,3 +1,4 @@
+using System;
 using System.IO;
 using System.Threading.Tasks;
 
@@ -65,7 +66,7 @@ namespace SimpleBinarizationLambda
                     }
                 }
             }
-            var key = $"{imageInfo.UserId}/pictures/binarization/bradley/java/{newFileName}";
+            var key = $"{imageInfo.UserId}/pictures/binarization/simple/csharp/{newFileName}";
             var status = await _s3Service.PutImageToS3(key, $"/tmp/{newFileName}");
             return JObject.FromObject(new { StatusCode = status, Body = key });
         }
