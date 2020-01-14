@@ -34,27 +34,29 @@ namespace SimpleBinarizationLambda
                 {
                     using (var original = SKBitmap.Decode(inputStream))
                     {
+                        SKBitmap temp = new SKBitmap(original.Info);
+
                         for (int i = 0; i < original.Width - 1; i++)
                         {
                             for (int j = 0; j < original.Height - 1; j++)
                             {
-                               
-                                SKColor pixelColor = original.GetPixel(i, j);
 
+                                SKColor pixelColor = original.GetPixel(i, j);
+                             
                                 int ret = (int)(pixelColor.Red * 0.299f + pixelColor.Green * 0.578f + pixelColor.Blue * 0.114f);
 
-                                if (ret > 50)
+                                if (ret > 100)
                                 {
-                                    original.SetPixel(i, j, SKColor.FromHsl(0.0f, 0.0f, 100.0f));
+                                    temp.SetPixel(i, j, SKColor.FromHsl(0.0f, 0.0f, 100.0f));
                                 }
                                 else
                                 {
-                                    original.SetPixel(i, j, SKColor.FromHsl(0.0f, 0.0f, 0.0f));
+                                    temp.SetPixel(i, j, SKColor.FromHsl(0.0f, 0.0f, 0.0f));
                                 }
                             }
                         }
                   
-                        using (var image = SKImage.FromBitmap(original))
+                        using (var image = SKImage.FromBitmap(temp))
                         {
                             using (var output = File.OpenWrite($"/tmp/{newFileName}"))
                             {
